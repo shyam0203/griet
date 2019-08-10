@@ -1,4 +1,4 @@
-
+//new version 1
 #include <stdio.h>
 #include <stdc++.h>
 // int maxSubArray(const int *A, int n1)
